@@ -23,4 +23,4 @@ Software Engineering student focused on backend development and scalable web app
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/hugo-davies-zibetti-2767763a6
-- - Email: hugodzibetti@gmail.com
+- Email: hugodzibetti@gmail.com

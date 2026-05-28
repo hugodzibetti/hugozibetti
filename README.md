@@ -22,5 +22,5 @@ Software Engineering student focused on backend development and scalable web app
 - Become a strong backend/software engineer
 
 ## Contact
-- LinkedIn: your-linkedin
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/hugo-davies-zibetti-2767763a6
+- - Email: hugodzibetti@gmail.com
